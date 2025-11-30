@@ -7,9 +7,7 @@ This project replicates the professional UI/UX of the official Clove Dental webs
 
 ## 🚀 Demo
 
-You can add the live link here after deployment (Netlify / GitHub Pages), for example:
-
-
+https://yasminghazala21.github.io/clove-project/
 
 ---
 
